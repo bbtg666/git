@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 ﻿ahihiho ^^
 Giang là nhất
+=======
+>>>>>>> parent of 0589b24... trí tuệ
